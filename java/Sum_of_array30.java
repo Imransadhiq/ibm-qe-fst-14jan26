@@ -13,6 +13,8 @@ public class Sum_of_array30 {
              result = true;
         }
         System.out.println(result);
+        System.out.println();
     }
     
 }
+
