@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestNGTest-da57501d-d1df-4eb5-97a8-5a71f1b248aa"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.523">
+    <properties></properties>
+
+
+
+            <testcase
+                name="getIPInformation"
+                time="1.523"
+                classname="RestAssured.TestIpAPI">
+            </testcase>
+</testsuite>

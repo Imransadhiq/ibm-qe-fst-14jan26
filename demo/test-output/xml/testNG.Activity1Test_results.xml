@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Default test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.366">
+    <properties></properties>
+
+
+
+            <testcase
+                name="homePageTest"
+                time="0.351"
+                classname="testNG.Activity1Test">
+            </testcase>
+            <testcase
+                name="aboutPageTest"
+                time="0.015"
+                classname="testNG.Activity1Test">
+            </testcase>
+</testsuite>

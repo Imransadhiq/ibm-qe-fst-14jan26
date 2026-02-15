@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestNGTest-3979cdca-481e-4eb3-aee5-101d7f2d6714"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="5.949">
+    <properties></properties>
+
+
+
+            <testcase
+                name="chromeTest"
+                time="5.949"
+                classname="Appium.Activity2">
+            </testcase>
+</testsuite>

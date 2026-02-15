@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestNGTest-3de62b57-d6b7-4ad7-be5b-06a970840632"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.379">
+    <properties></properties>
+
+
+
+            <testcase
+                name="getPetInfo"
+                time="0.897"
+                classname="RestAssured.TestAddNewPet">
+            </testcase>
+            <testcase
+                name="addNewPet"
+                time="2.482"
+                classname="RestAssured.TestAddNewPet">
+            </testcase>
+</testsuite>

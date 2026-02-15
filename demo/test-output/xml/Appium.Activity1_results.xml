@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestNGTest-08d17521-5e25-4c8b-9749-90d01d8214ba"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.393">
+    <properties></properties>
+
+
+
+            <testcase
+                name="multiplyTest"
+                time="3.393"
+                classname="Appium.Activity1">
+            </testcase>
+</testsuite>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestNGTest-86a6b07b-ad6e-44a4-a550-beab966e626e"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4.838">
+    <properties></properties>
+
+
+
+            <testcase
+                name="AddNewPet"
+                time="2.689"
+                classname="RestAssured.GetPetbyID">
+            </testcase>
+            <testcase
+                name="simple_get_test"
+                time="1.175"
+                classname="RestAssured.GetPetbyID">
+            </testcase>
+            <testcase
+                name="simple_get_test"
+                time="0.974"
+                classname="RestAssured.GetPetbyID">
+            </testcase>
+</testsuite>

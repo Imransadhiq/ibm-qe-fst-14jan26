@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="LoginSuite">
+
+    <test name="LoginTest">
+        <parameter name="username" value="admin"/>
+        <parameter name="password" value="password"/>
+        <parameter name="message" value="Welcome Back, Admin!"/>
+
+        <classes>
+            <class name="testNG.Activity6"/>
+        </classes>
+    </test>
+
+</suite>

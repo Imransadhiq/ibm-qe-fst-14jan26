@@ -1,0 +1,13 @@
+{
+    "id": 98589,
+    "category": {
+        "id": 1,
+        "name": "Cat"
+    },
+    "name": "Tiger",
+    "tags": [{
+        "id": 1,
+        "name": "Persian"
+    }],
+    "status": "Always Sleepy"
+}

@@ -1,0 +1,14 @@
+services:
+  redis-server:
+    image: redis
+    volumes:
+      - ./redis:/data
+    command: ["redis-server", "--protected-mode", "no"]
+
+  node-app:
+    build: .
+    restart: always
+    ports:
+      - "8081:8081"
+    depends_on:
+      - redis-server

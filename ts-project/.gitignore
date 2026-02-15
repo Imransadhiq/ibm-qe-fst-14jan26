@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.cache
+.rpt2_cache
+build/
+coverage/
+.vscode
+
+# Playwright
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
